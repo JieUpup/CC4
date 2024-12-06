@@ -1,4 +1,5 @@
 # ppo_agent.py
+from ppo_utils import PPOActorCritic
 import numpy as np
 import torch
 import torch.nn as nn

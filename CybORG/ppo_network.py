@@ -1,3 +1,5 @@
+from ppo_utils import PPOActorCritic  # Import from the new file
+
 import numpy as np
 import torch
 import torch.nn as nn
